@@ -11,7 +11,7 @@ namespace DeliveryWebApi.Models
         public DateTime Created { get; set; }
         public DateTime? Done { get; set; }
 
-        //public int TotalPrice { get; set; }
+        public int TotalPrice { get; set; }
     }
 
     
